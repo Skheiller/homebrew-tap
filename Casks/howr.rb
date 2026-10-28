@@ -7,7 +7,7 @@ cask "howr" do
   desc "Hourly chime for the Mac menu bar"
   homepage "https://lmostafa.dev/howr"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Howr.app"
 
