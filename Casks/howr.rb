@@ -1,8 +1,8 @@
 cask "howr" do
-  version "1.0.0"
-  sha256 "ea7def443b39cd8d40337571c137d1606cf63834b923bef222c1ae398e3d66bd"
+  version "1.0.2"
+  sha256 "08b8d5631ec86f78160ebb88d8e8a0db8bcd14447bbc89d99641d30d38fadd55"
 
-  url "https://github.com/Skheiller/howr/releases/download/v#{version}/Howr-#{version}-universal.zip"
+  url "https://github.com/Skheiller/howr/releases/download/v#{version}/Howr-#{version}-homebrew.zip"
   name "Howr"
   desc "Hourly chime for the Mac menu bar"
   homepage "https://lmostafa.dev/howr"
